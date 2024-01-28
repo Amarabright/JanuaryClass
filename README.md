@@ -50,6 +50,8 @@ AutomatedModel                      |            CreatedModel
 ![](AutomatedModel.png)             | ![](RecreatedModel.png)
 
 
+View my SQL script [here](SalesPerformanceScript.sql)
+
 ## Limitation
 
 tyeu yuyguilhliuhsiuhufilhuihfihaiuhihafhioruoiuaoiufo;a;roifdfrgrgbst   😄
